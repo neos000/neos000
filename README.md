@@ -9,4 +9,4 @@ Hello I'm neos,
 
 I am a beginner scripter, I am currently developing my Python and Lua skills. I am also interested in information security.
 
-[title](https://youtu.be/EE-xtCF3T94?t=6)
+[Best Youtube video of all time?](https://youtu.be/EE-xtCF3T94?t=6)
