@@ -3,10 +3,12 @@ neos000/neos000 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-**-- Introduction --**
+<h2>Introduction.</h2>
 
-Hello I'm neos,
+Hello I'm known as neos,
 
-I am a beginner scripter, I am currently developing my Python and Lua skills. I am also interested in information security.
+I am a beginner scripter, I'm interested in Python and Lua(specifically LuaU). I'm interested in cyber-security, specifically web-application hacking, malware-development and networking. My favourite python library is 'requests' as it makes sending HTTP requests very simple, I can explore APIs easily with 'requests'.
 
-[Best Youtube video of all time?](https://youtu.be/EE-xtCF3T94?t=6)
+===============================================================================================================================================================
+My target languages to learn soon: C++, Javascript
+
